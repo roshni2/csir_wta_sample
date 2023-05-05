@@ -2,7 +2,3 @@
 
 
 Made by Roshni Singh
-
-
-
-Made by Vishnu Singh 

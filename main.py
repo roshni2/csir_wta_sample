@@ -119,4 +119,8 @@ widget.addWidget(mainWindow)
 widget.setFixedWidth(720)
 widget.setFixedHeight(520)
 widget.show()
+
+
+
+
 app.exec_()
